@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Modern Portfolio Website
 
 A beautiful, responsive, and fully functional portfolio website built with React. This portfolio showcases projects, skills, blog posts, testimonials, and provides a contact form for potential clients and collaborators.
@@ -195,3 +196,6 @@ If you have questions or need help, feel free to reach out through the contact f
 **Made with React • Deployed on Netlify**
 
 Happy coding! 🚀
+=======
+# MY-portifolio
+>>>>>>> 641e751b86cc215f9e6116c1a416daa271b42f26
