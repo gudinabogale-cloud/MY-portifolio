@@ -195,7 +195,8 @@ If you have questions or need help, feel free to reach out through the contact f
 
 **Made with React • Deployed on Netlify**
 
-Happy coding! 🚀
+Happy coding! 
+GUDINA BOGALE 
 =======
 # MY-portifolio
 >>>>>>> 641e751b86cc215f9e6116c1a416daa271b42f26
